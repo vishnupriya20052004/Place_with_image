@@ -23,7 +23,9 @@ Step 7: Save and run the application.
 # PROGRAM:
 /*
 Program to print the list of item.
-Developed by:VISHNU PRiYA S
+
+Developed by:VISHNU PRIYA S
+
 Registeration Number :212221040181
 */
 # activity_main.xml
